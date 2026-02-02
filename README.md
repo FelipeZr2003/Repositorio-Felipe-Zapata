@@ -1,7 +1,13 @@
 # 👋 Repositorio-Felipe-Zapata
 Proyectos personales de desarrollo Frontend y Full Stack
-Soy un tecnologo en desarrollo de software, estudiante de ingenieria en formación con enfoque en **Frontend y Full Stack**.
-Me interesa construir soluciones reales, optimizar procesos y crear interfaces claras y funcionales.
+Soy un tecnologo en desarrollo de software, estudiante de ingenieria en proceso de formación 
+como desarrollador **Frontend / Full Stack**, creando proyectos reales para fortalecer:
+- Lógica de negocio
+- Manejo de datos
+- Diseño de interfaces
+- Organización de código
+
+Busco una oportunidad donde pueda seguir aprendiendo y aportar valor desde el primer día.
 
 ---
 
